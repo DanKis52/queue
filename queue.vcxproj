@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="queue.cpp" />
+    <ClCompile Include="queue_methods.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="queue.h" />
